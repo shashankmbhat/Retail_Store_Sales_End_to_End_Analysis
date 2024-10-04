@@ -2,6 +2,7 @@
 
 The "Retail Data Analysis" is a comprehensive and automated retail analysis project that utilizes various technologies and tools to provide valuable insights into customer buying patterns and seasonal trends. The project involves six major steps:
 
+View the Power Bi report on Novy Pro: https://project.novypro.com/FybSGM
 # Amazon Web Services (AWS):
 
 Created an AWS S3 bucket and uploaded raw files securely.
